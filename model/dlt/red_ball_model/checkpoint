@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/wenlin/PycharmProjects/predict_Lottery_ticket/model//dlt/red_ball_model/red_ball_model.ckpt"
+all_model_checkpoint_paths: "/Users/wenlin/PycharmProjects/predict_Lottery_ticket/model//dlt/red_ball_model/red_ball_model.ckpt"
