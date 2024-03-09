@@ -3,9 +3,9 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # 设置邮件信息
-sender = 'wenlin_x@163.com' # 发送者邮箱地址
-receiver = 'wenlin.xie@outlook.com' # 接收者邮箱地址
-password = 'DFOZWXHXIQFKITDP' # 发送者邮箱密码或授权码
+sender = 'xxxxxx@163.com' # 发送者邮箱地址
+receiver = 'xxxx@outlook.com' # 接收者邮箱地址
+password = 'DxxxxxxxxKITDP' # 发送者邮箱密码或授权码
 
 
 def send_email(subject,body):
